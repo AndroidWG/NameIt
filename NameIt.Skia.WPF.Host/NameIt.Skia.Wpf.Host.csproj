@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+    <PropertyGroup>
+        <OutputType Condition="'$(Configuration)'=='Release'">WinExe</OutputType>
+        <OutputType Condition="'$(Configuration)'=='Debug'">Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <UseWPF>true</UseWPF>
+        <LangVersion>default</LangVersion>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="DotNetZip" Version="1.15.0" />
+        <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+        <PackageReference Include="Uno.WinUI.Skia.Wpf" Version="3.4.0" />
+        <PackageReference Include="Uno.WinUI.RemoteControl" Version="3.4.0" Condition="'$(Configuration)'=='Debug'" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="Assets\Fonts\uno-fluentui-assets.ttf" />
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="..\NameIt.Skia.WPF\NameIt.Skia.WPF.csproj" />
+    </ItemGroup>
+</Project>

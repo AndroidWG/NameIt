@@ -1,0 +1,31 @@
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Debug\BeamNG Exproted Car Naming Tool.exe.config
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Debug\BeamNG Exproted Car Naming Tool.exe
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Debug\BeamNG Exproted Car Naming Tool.pdb
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG Exproted Car Naming Tool.csprojAssemblyReference.cache
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG_Exproted_Car_Naming_Tool.Form1.resources
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG_Exproted_Car_Naming_Tool.Properties.Resources.resources
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG Exproted Car Naming Tool.csproj.GenerateResource.cache
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG Exproted Car Naming Tool.csproj.CoreCompileInputs.cache
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG Exproted Car Naming Tool.exe
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG Exproted Car Naming Tool.pdb
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Debug\DotNetZip.dll
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Debug\DotNetZip.pdb
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Debug\DotNetZip.xml
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG Exproted Car Naming Tool.csproj.CopyComplete
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG_Exproted_Car_Naming_Tool.Form2.resources
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Debug\Name It!.exe.config
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Debug\Name It!.exe
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Debug\Name It!.pdb
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Debug\DotNetZip.xml
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Debug\Newtonsoft.Json.xml
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG Exproted Car Naming Tool.csprojAssemblyReference.cache
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\NameIt.MainForm.resources
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\NameIt.Properties.Resources.resources
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG Exproted Car Naming Tool.csproj.GenerateResource.cache
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG Exproted Car Naming Tool.csproj.CoreCompileInputs.cache
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG Exproted Car Naming Tool.csproj.Fody.CopyLocal.cache
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\BeamNG Exproted Car Naming Tool.csproj.CopyComplete
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\Name It!.exe
+F:\Repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Debug\Name It!.pdb

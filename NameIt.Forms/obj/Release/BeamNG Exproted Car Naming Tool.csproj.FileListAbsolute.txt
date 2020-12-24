@@ -1,0 +1,15 @@
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Release\BeamNG Mod Naming Tool.exe.config
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Release\BeamNG Mod Naming Tool.exe
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Release\BeamNG Mod Naming Tool.pdb
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Release\DotNetZip.xml
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\bin\Release\Newtonsoft.Json.xml
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Release\BeamNG Exproted Car Naming Tool.csprojAssemblyReference.cache
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Release\BeamNG_Exproted_Car_Naming_Tool.Form1.resources
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Release\BeamNG_Exproted_Car_Naming_Tool.Properties.Resources.resources
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Release\BeamNG Exproted Car Naming Tool.csproj.GenerateResource.cache
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Release\BeamNG Exproted Car Naming Tool.csproj.CoreCompileInputs.cache
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Release\BeamNG Exproted Car Naming Tool.csproj.CopyComplete
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Release\BeamNG Mod Naming Tool.exe
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Release\BeamNG Mod Naming Tool.pdb
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Release\BeamNG Exproted Car Naming Tool.csproj.Fody.CopyLocal.cache
+C:\Users\samu-\source\repos\BeamNG Exproted Car Naming Tool\BeamNG Exproted Car Naming Tool\obj\Release\BeamNG_Exproted_Car_Naming_Tool.Form3.resources

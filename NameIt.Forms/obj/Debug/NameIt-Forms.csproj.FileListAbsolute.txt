@@ -1,0 +1,14 @@
+F:\Repos\NameIt\NameIt-Forms\bin\Debug\Name It!.exe.config
+F:\Repos\NameIt\NameIt-Forms\bin\Debug\Name It!.exe
+F:\Repos\NameIt\NameIt-Forms\bin\Debug\Name It!.pdb
+F:\Repos\NameIt\NameIt-Forms\bin\Debug\DotNetZip.xml
+F:\Repos\NameIt\NameIt-Forms\bin\Debug\Newtonsoft.Json.xml
+F:\Repos\NameIt\NameIt-Forms\obj\Debug\NameIt-Forms.csprojAssemblyReference.cache
+F:\Repos\NameIt\NameIt-Forms\obj\Debug\NameIt.MainForm.resources
+F:\Repos\NameIt\NameIt-Forms\obj\Debug\NameIt.Properties.Resources.resources
+F:\Repos\NameIt\NameIt-Forms\obj\Debug\NameIt-Forms.csproj.GenerateResource.cache
+F:\Repos\NameIt\NameIt-Forms\obj\Debug\NameIt-Forms.csproj.CoreCompileInputs.cache
+F:\Repos\NameIt\NameIt-Forms\obj\Debug\NameIt-Forms.csproj.Fody.CopyLocal.cache
+F:\Repos\NameIt\NameIt-Forms\obj\Debug\NameIt-Forms.csproj.CopyComplete
+F:\Repos\NameIt\NameIt-Forms\obj\Debug\Name It!.exe
+F:\Repos\NameIt\NameIt-Forms\obj\Debug\Name It!.pdb

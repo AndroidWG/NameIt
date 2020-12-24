@@ -1,0 +1,1 @@
+F:\Repos\NameIt\NameIt\NameIt.UWP\NameIt.Uwp.csproj;x86
